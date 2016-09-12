@@ -1,8 +1,9 @@
-header, footer {
+header,
+footer {
   background-color: orange;
   overflow:hidden;
-}
 
+}
 .logo{
   width: 60px;
   height: auto;
@@ -23,6 +24,10 @@ header, footer {
 
 nav {
   float: right;
+}
+
+.subtitle {
+  float:left;
 }
 
 .title {
